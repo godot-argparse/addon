@@ -1,3 +1,0 @@
-[submodule "addons/godot-argparser"]
-	path = addons/godot-argparser
-	url = git@github.com:godot-argparse/addon.git
